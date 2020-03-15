@@ -1,0 +1,152 @@
+ body{
+    font-family: 'Varela Round', sans-serif;
+    background-image: url(../image/couple.webp);
+} 
+#titre_compte{
+    color: ivory;
+    
+} 
+.sous-titre  > h4{
+    color: rgb(250, 178, 232);
+    margin-top: 10px;
+} 
+#change_info{
+    margin-top: 0px;
+   
+   
+}    
+#change_info > input{
+    margin-right: 2em;
+    width: 210px;
+}
+
+.compte{
+    background-color: rgba(227, 215, 250, 0.411);
+    width: 200px;
+    height: 20px;
+    text-align: center;
+    font-size: large;
+    margin-left: -100px;
+    border-radius: 2px;
+    
+}  
+  
+.compte a{
+    color: ivory;
+}
+.cache a:hover{
+    color: rgb(246, 125, 240);
+}
+.cache a{
+    color: ivory;
+}    
+li{
+    list-style-type:none;
+}
+h1{
+    text-align: center;
+    color: ivory;
+    font-family: 'Varela Round', sans-serif;
+}
+
+.formlog{
+    display: inline-flex;
+}
+nav{
+    height: 100px;
+    
+}
+form{
+    margin: 2em;
+    background-color: rgba(227, 215, 250, 0.411);
+    border: 1px grey;
+    border-radius: 5px;
+    padding: 1em;
+    font-family: 'Varela Round', sans-serif;
+}
+form label{
+    width: 100px;
+}
+form input{
+margin: 1em;
+}
+#loisir{
+    width: 400px;
+    height: 150px;
+}
+.loisir{
+    display: inline-block;
+    margin: 1em;
+}
+
+.sous-titre{
+    text-align: center;
+}
+select{
+    margin-left: 10px;
+}
+#change_date_naissance{
+    margin-left: 95px;
+}
+#inscription{
+    margin-top: -60px;
+}
+#titre{
+    margin-top: -110px; 
+}
+.search_field{
+    display: inline;
+}
+#search_titre, #result_titre{
+    color: ivory;
+}    
+    
+.search_field,label{
+    margin-left: 1em;
+}
+#recherche{
+   width: 1200px; 
+   position: relative;
+   left: -30px;
+   top: -40px;
+}
+.hobbies{
+    background-color: rgba(227, 215, 250, 0.411);
+    color: ivory;
+    width: 300px;
+    height: 500px;
+    border: 1px grey;
+    border-radius: 5px;
+    font-size: large;
+}
+.login{
+    font-size: 30px;
+    color: ivory;
+    position: relative;
+    left: -130px;
+}
+#log_button{
+    width: 100px;
+    height: 30px;
+    position: relative;
+    top: 35px;
+}
+.resultat{
+    color: ivory;
+    margin: 2em;
+    background-color: rgba(227, 215, 250, 0.411);
+    border: 1px grey;
+    border-radius: 5px;
+    padding: 1em;
+    font-family: 'Varela Round', sans-serif;
+    width: 500px;
+    height: 300px; 
+    text-align: center;
+    position: relative;
+    left: 300px;
+    top: -100px;
+}
+#result_titre{
+    position: relative;
+    top: -50px;
+}
