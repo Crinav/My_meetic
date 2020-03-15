@@ -23,10 +23,10 @@ Copyright (©) Christophe Navarro <navarro.christophe@gmail.com>
 
 ## Screenshots
   
-![alt text](https://github.com/Crinav/Tweet_Academie/blob/master/My_meetic.png "main page")  
+![alt text](https://github.com/Crinav/My_meetic/blob/master/My_Meetic.png "main page")  
 ___  
 
-![alt text](https://github.com/Crinav/Tweet_Academie/blob/master/My_meetic.png "search")
+![alt text](https://github.com/Crinav/My_meetic/blob/master/My_Meetic(1).png "search")
 ___  
 
-![alt text](https://github.com/Crinav/Tweet_Academie/blob/master/My_meetic.png "profil")  
+![alt text](https://github.com/Crinav/My_meetic/blob/master/My_Meetic(2).png "profil")  
